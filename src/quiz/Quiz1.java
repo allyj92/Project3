@@ -12,7 +12,7 @@ public class Quiz1 {
 		System.out.println(num);
 		System.out.println(result);
 		System.out.println(num2);
-		System.out.println(result2);
+		System.out.println(result2);  
 	}
 
 }
